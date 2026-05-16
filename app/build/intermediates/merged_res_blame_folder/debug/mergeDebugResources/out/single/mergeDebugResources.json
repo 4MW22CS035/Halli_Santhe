@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.hallisanthe.app-debug-5:/drawable_ic_empty_market.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/drawable/ic_empty_market.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_upload_product.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_upload_product.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_profile.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_layout_empty_state.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/layout_empty_state.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/drawable_bg_card_placeholder.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/drawable/bg_card_placeholder.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/navigation_nav_graph.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_wishlist.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_wishlist.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/menu_menu_bottom_nav.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/menu/menu_bottom_nav.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/drawable_bg_rounded_surface.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/drawable/bg_rounded_surface.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/drawable_ic_market_logo.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/drawable/ic_market_logo.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_activity_main.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/drawable_bg_market_gradient.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/drawable/bg_market_gradient.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_home.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_login.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_item_product.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/item_product.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_register.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_splash.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.hallisanthe.app-debug-5:/layout_fragment_product_detail.xml.flat",
+        "source": "com.hallisanthe.app-main-7:/layout/fragment_product_detail.xml"
+    }
+]

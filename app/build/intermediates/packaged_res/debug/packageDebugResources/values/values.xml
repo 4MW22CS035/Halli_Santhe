@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="product_categories">
+        <item>Textiles</item>
+        <item>Pottery</item>
+        <item>Food</item>
+        <item>Decor</item>
+        <item>Jewelry</item>
+    </string-array>
+    <color name="black">#000000</color>
+    <color name="market_bg_light">#FFF8E1</color>
+    <color name="market_green">#43A047</color>
+    <color name="market_green_dark">#2E7D32</color>
+    <color name="market_maroon">#7B1F3A</color>
+    <color name="market_orange">#F57C00</color>
+    <color name="market_yellow">#FFD54F</color>
+    <color name="white">#FFFFFF</color>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="app_name">Halli-Santhe Digital</string>
+    <string name="category">Category</string>
+    <string name="check_stock">Check Stock</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="contact_seller_msg">Contact details can be integrated with phone/WhatsApp in next step.</string>
+    <string name="create_account">Create Account</string>
+    <string name="description">Description</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="email">Email</string>
+    <string name="empty_wishlist">No products in your wishlist yet</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054989395213</string>
+    <string name="google_api_key" translatable="false">AIzaSyA16FspChO_Zx9eIIh6HihTlb1ybY8m0cM</string>
+    <string name="google_app_id" translatable="false">1:1054989395213:android:88c1d307107a4cca383c44</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA16FspChO_Zx9eIIh6HihTlb1ybY8m0cM</string>
+    <string name="google_storage_bucket" translatable="false">hallisanthedigital-c997d.firebasestorage.app</string>
+    <string name="home">Home</string>
+    <string name="in_stock">In Stock</string>
+    <string name="invalid_price_msg">Please enter a valid price</string>
+    <string name="login">Login</string>
+    <string name="login_success">Logged in successfully</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="no_products_search">No Products Found</string>
+    <string name="no_products_title">No products uploaded yet</string>
+    <string name="ok">OK</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="password">Password</string>
+    <string name="permission_required">Image permission is required to select photos</string>
+    <string name="price">Price</string>
+    <string name="price_format">₹ %1$.2f</string>
+    <string name="product_name">Product Name</string>
+    <string name="profile">Profile</string>
+    <string name="profile_image_updated">Profile image updated</string>
+    <string name="project_id" translatable="false">hallisanthedigital-c997d</string>
+    <string name="register">Register</string>
+    <string name="register_success">Registered successfully</string>
+    <string name="register_validation">Enter valid details and password of at least 6 characters</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+    <string name="role">Role</string>
+    <string name="search_hint">Search local products</string>
+    <string name="select_image">Select Product Image</string>
+    <string name="select_image_msg">Please select a product image</string>
+    <string name="stock_checked_msg">Seller has been notified to confirm stock.</string>
+    <string name="tap_to_change_photo">Tap image to change profile photo</string>
+    <string name="upload">Upload</string>
+    <string name="upload_product">Upload Product</string>
+    <string name="upload_progress_format">Uploading: %1$d%%</string>
+    <string name="upload_success">Product uploaded successfully</string>
+    <string name="uploaded_products_count">Uploaded products: %1$d</string>
+    <string name="wishlist">Wishlist</string>
+    <style name="Theme.HalliSanthe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/market_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/market_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/market_maroon</item>
+    </style>
+</resources>

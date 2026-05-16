@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Halli-Santhe Digital</string>
+    <string name="search_hint">Search local products</string>
+    <string name="price_format">₹ %1$.2f</string>
+    <string name="in_stock">In Stock</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="no_products_title">No products uploaded yet</string>
+    <string name="no_products_search">No Products Found</string>
+    <string name="upload_product">Upload Product</string>
+    <string name="check_stock">Check Stock</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="stock_checked_msg">Seller has been notified to confirm stock.</string>
+    <string name="contact_seller_msg">Contact details can be integrated with phone/WhatsApp in next step.</string>
+    <string name="ok">OK</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="select_image">Select Product Image</string>
+    <string name="upload">Upload</string>
+    <string name="fill_all_fields">Please fill all fields</string>
+    <string name="select_image_msg">Please select a product image</string>
+    <string name="invalid_price_msg">Please enter a valid price</string>
+    <string name="upload_success">Product uploaded successfully</string>
+    <string name="home">Home</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="role">Role</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">Already have an account? Login</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="login_success">Logged in successfully</string>
+    <string name="register_success">Registered successfully</string>
+    <string name="register_validation">Enter valid details and password of at least 6 characters</string>
+    <string name="permission_required">Image permission is required to select photos</string>
+    <string name="upload_progress_format">Uploading: %1$d%%</string>
+    <string name="add_to_wishlist">Add to Wishlist</string>
+    <string name="remove_from_wishlist">Remove from Wishlist</string>
+    <string name="empty_wishlist">No products in your wishlist yet</string>
+    <string name="uploaded_products_count">Uploaded products: %1$d</string>
+    <string name="logout">Logout</string>
+    <string name="profile_image_updated">Profile image updated</string>
+    <string name="tap_to_change_photo">Tap image to change profile photo</string>
+
+    <string-array name="product_categories">
+        <item>Textiles</item>
+        <item>Pottery</item>
+        <item>Food</item>
+        <item>Decor</item>
+        <item>Jewelry</item>
+    </string-array>
+</resources>
